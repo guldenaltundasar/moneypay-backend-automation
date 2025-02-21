@@ -1,0 +1,7 @@
+<suite name="Test Suite">
+    <test name="MoneyPay Backend Tests">
+        <classes>
+            <class name="MoneyPayBackendTests"/>
+        </classes>
+    </test>
+</suite>
